@@ -1,0 +1,8 @@
+SoftSkills:
+Time Manegment,
+Flexibility,
+Analytical,
+HardSkills:
+Terminal,
+Coding,
+Testing Tools.
