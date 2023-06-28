@@ -1,1 +1,13 @@
+Severity- medium 
+ Title - Data loading in Universes doesn’t continue after disconnection and restore when using the app for the first time
+Steps -
+1.	Download the application
+2.	Open app
+3.	Close popup
+4.	Disconnected wifi  
+5.	Tap on Ethereum
+6.	Connect wifi
+      
+Actual result -:  When the user opens up the app for the first time and disconnect occurs and then restores the wifi connection, data loading is not carried out.
 
+Expected result -:  After disconnection and restoring wifi connection data  loading have to be finished
